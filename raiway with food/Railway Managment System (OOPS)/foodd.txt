@@ -1,0 +1,4 @@
+1000005279 Simple Veg Thali 190
+1000005278 Simple Non-Veg Thali 210
+
+1000007404 Special Veg Thali 210
